@@ -1,0 +1,35 @@
+h1{
+    color: pink;
+        }
+ /*{
+            border:solid;
+        }*/
+
+.header{
+    background-color: rgb(0, 174, 255);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    padding: 20pt;
+   
+}
+
+body{
+    background-color: #12AF79;
+    margin-top: 50pt;
+
+}
+h2{
+    color:#24EF96;
+}
